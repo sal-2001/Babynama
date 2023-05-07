@@ -1,0 +1,19 @@
+.plans{
+    display: flex;
+    flex-direction: row;
+}
+.home{
+    background-color: white;
+    padding: 60px 15px 30px 15px;
+}
+.home > h1{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: -5px;
+    color: rgb(9, 12, 40);
+}
+.home > p{
+    font-size: 25px;
+    font-weight: 400;
+    color: rgb(85, 83, 83);
+}
